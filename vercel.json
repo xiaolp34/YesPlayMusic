@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://musicapi.xiaolp.ml/:match*"
+      "destination": "https://musicapi.xiaolp.gq/:match*"
     }
   ]
 }
